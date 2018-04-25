@@ -2,6 +2,8 @@
 authors = ["Markus Stange <mstange@themasta.com>"]
 name = "profiler-dwarf-lookup"
 version = "0.1.0"
+license = "MIT"
+repository = "https://github.com/mstange/profiler-dwarf-lookup"
 
 [dependencies]
 addr2line = "0.6.0"
