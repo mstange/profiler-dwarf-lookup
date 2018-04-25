@@ -1,0 +1,11 @@
+[package]
+authors = ["Markus Stange <mstange@themasta.com>"]
+name = "profiler-dwarf-lookup"
+version = "0.1.0"
+
+[dependencies]
+addr2line = "0.6.0"
+fallible-iterator = "0.1.4"
+gimli = "0.15.0"
+goblin = "0.0.15"
+object = "0.7.0"
